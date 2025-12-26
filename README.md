@@ -23,4 +23,4 @@ This project analyzes patient wait times and service efficiency in a hospital Em
 * **ER_Efficiency_Dashboard_Final.pdf**: Visual export of the dashboard.
 
 ---
-*Analyst: [Your Name]*
+*Analyst: Mahima Gupta*
